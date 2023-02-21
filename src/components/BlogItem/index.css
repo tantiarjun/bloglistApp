@@ -1,0 +1,7 @@
+.each-blog {
+  width: 100%;
+}
+.title-description-container {
+  display: flex;
+  justify-content: space-between;
+}
